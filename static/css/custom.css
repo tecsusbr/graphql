@@ -1,0 +1,61 @@
+.card_div {
+    min-height: 120px;
+    vertical-align: middle;
+}
+
+.card {
+    margin-top : 5px;
+}
+
+.card-title {
+}
+
+.card-title img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.card-title i {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.card-title h6, .card-title h5 {
+    position: absolute;
+    top: 36px;
+    left: 100px;
+}
+
+.card-title label {
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    color: gray;
+    font-size: 12px;
+}
+
+.card-title .item-top {
+    position: absolute;
+    top: 13px;
+    left: 100px;
+}
+
+.row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.icon_space {
+    margin-right: 5px;
+}
+
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.icon-lock-left {
+    padding-left: 5px;
+}
